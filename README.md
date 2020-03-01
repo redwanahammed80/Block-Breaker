@@ -1,2 +1,2 @@
 # Block-Breaker
-It's a 2D game.
+<p>It's a basic 2D game. Developping a childhood game is really fun. I learned a lot about 2D through this game. Created five levels which are difficult to complete. I couldn't create life system in this game. I tried but failed. There are a few bugs which I couldn't fix in this game. Still learning though. I'm hoping to develope this game in future when I will learn to solve almost every solution in Unity. </p>
